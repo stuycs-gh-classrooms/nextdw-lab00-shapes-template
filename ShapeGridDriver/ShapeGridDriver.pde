@@ -4,6 +4,8 @@ ShapeGridDriver (no changes)
 int PATH = 0;
 int POLYGON = 1;
 int REGULAR = 2;
+int TRIANGLE = 3;
+int SQUARE = 4;
 int MAX_SIZE = 100;
 int MAX_POINTS = 12;
 
